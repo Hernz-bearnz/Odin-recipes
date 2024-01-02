@@ -1,2 +1,2 @@
 # Odin-recipes
-Odin project first project
+This is my first project for the odin project web curriculum. Feel free to add whatever recipes you like!
