@@ -11,3 +11,11 @@ img{
     display: block;
     margin: 0 auto;
 }
+    
+ul {
+    display: table;
+    margin: 0 auto;}
+li{
+    display: table;
+    margin: 0 auto;
+}
