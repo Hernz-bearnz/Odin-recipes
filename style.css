@@ -1,28 +1,31 @@
-h1,
-ul,
-li,
-h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+h1, ul, li, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-h1, h2, h3, p, ul, ol {
-    text-align: center;
+ul, ol, li {
+    font-size: 18px;
 }
-
-img{ 
-    display: block;
-    margin: 0 auto;
+.intro{
+    margin-left: 300px;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 100px;
+    padding: 10px;
+    border: 10px rgb(68, 68, 68);
+    background-color: rgb(214, 214, 214);
 }
-    
-ul {
-    list-style-position: inside;
-    text-align: center;
+.bananas{
+    background-color: #fff3d7;
+    padding: 50px;
+    margin-top: 100px;
 }
-li {
-    list-style-position: inside;
-    text-align: center;
+.shimp{
+    background-color: rgb(255, 198, 255);
+    padding: 50px;
 }
-ul, ol{
-font-size: 15px;
-    
-}
+body{
+    margin-left: 750px;
+    margin-right: 750px;
+} 
